@@ -1,7 +1,7 @@
-# Check Your Birth Year
+# Check your birth year
 
-##Task
+## Task
 Was to make a program that calculates your birth year.
 
-###Summary
+### Summary
 This is a JavaScript program that tells user their birth year by simply stating their age.
