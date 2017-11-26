@@ -4,4 +4,4 @@
 Was to make a program that calculates your birth year.
 
 ### Summary
-This is a JavaScript program that tells user their birth year by simply stating their age.
+This is a JavaScript program that tells the user their birth year by simply asking the user to state their age.
